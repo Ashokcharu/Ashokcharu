@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashokcharu
-- 👀 interested in Computer Vision and hardware
-- 🌱 currently learning above both
-- 💞️ I’m looking to collaborate on my website zorvx.com
+- 👀 Interested in crypto, AI, and science 
+- 🌱 Currently working on all of the above
+- 💞️ I’m looking to collaborate on my website science projects
 - 📫 Reach me ashokelse@gmail.com
 
 
